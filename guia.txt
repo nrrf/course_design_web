@@ -74,3 +74,16 @@ click izq objeto con dicho color -> añadir color a activos
 
 9. Componentes 
 Basicamente es una actualizacion o cambio de nombre de lo que es simbolo y componente
+
+10. Creando un sistema de columnas: 
+
+La siguiente pagina es muy util para realizar dichas columnas:
+
+http://gridcalculator.dk/#/1000/12/20/20
+
+Damos doble clic en el artboard 
+
+En la parte de abajo del panel tenemos la seccion de Cuadricula en la que tenemos las opciones de Diseño o cuadrado 
+ya en esta nos va a aparecer la cantidad de columnas la anchura de las columnas y el espaciado entre columnas en el color ponemos la transparencia en 0
+abajo de anchura de columnas estan las margen que queremos
+

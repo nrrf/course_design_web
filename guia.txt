@@ -1,6 +1,7 @@
 commands 
 git init 
 git remote add origin (link repository)
+git status
 git add * 
 git commit -m "message"
 git push origin master -- force (en este caso porq no tengo en mi arcgivo el readme)
@@ -14,4 +15,13 @@ Importante digamos herramienta de intersección para hacer por ejemplo medio cir
 Se crean las formas donde se van a colocar las imagenes (preferiblemente sin borde y fondo casi inperceptible)
 Se pueden mover las imagenes dentro del shape haciendo doble clic 
 En la imagen se puede cambiar desenfoque de fondo por desenfoque de objeto y de ahi difuminar la imagen si se quiere
+
+3. Text 
+El centrado es util la mayoria de veces ya que no es sobre todo el ancho del artboard sino en lo que se esta escribiendo
+la de left puede ser mas util en parrafos por ejemplo 
+a lado de alineacion podemos poner area de texto para escribir en varias lineas
+lo anterior tmbn se puede hacer directamente con la herramienta de texto ya que se hace clic en el artboard y se mantiene hasta tener la forma deseada
+Debajo de las fuente y tamaño de fuente tenemos ql espaciado entre caracteres, entre lineas y entre parrafos 
+La sombra en textos es recomendada si se va a usar en textos cortos, o sea no parrafos
+
 

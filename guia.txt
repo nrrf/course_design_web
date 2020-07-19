@@ -1,8 +1,17 @@
 commands 
 git init 
 git remote add origin (link repository)
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi arcgivo el readme)
 
 1. Shapes: 
 Se vieron el tema de dimensiones, el fill, border entre otros. 
 Mantener Shift cuando se quiere mantener la dimensión de un shape  
-Importante digamos herramienta de intersección par hacer por ejemplo medio circulo
+Importante digamos herramienta de intersección para hacer por ejemplo medio circulo
+
+2. Images
+Se crean las formas donde se van a colocar las imagenes (preferiblemente sin borde y fondo casi inperceptible)
+Se pueden mover las imagenes dentro del shape haciendo doble clic 
+En la imagen se puede cambiar desenfoque de fondo por desenfoque de objeto y de ahi difuminar la imagen si se quiere
+

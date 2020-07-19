@@ -40,4 +40,12 @@ o se seleccionan los tres y se pone selecciona en la parte de herramientas Distr
 
 Por ultimo para una mejor organizacion podemos agrupar elementos por ejemplo el header del artboard (esto tambien hace que podamos mover todo el grupo de una si vamos a cambiarlo de lugar)
 
+6. Herramienta de repeticion de elementos  
+
+Queremos agregar una descpipcion a cada imagen para hacerlo de una forma mas sistematica se va a usar la herramienta de repetir cuadricula  
+Eliminamos la imagen 2 y 3  
+le agregamos la descripcion a la primera, luego con la repeticion de cuadricula la dibujamos varias veces y ponemos el espaciado entre ellas como queramos 
+seleccionamos varias imagenes (las q tengamos de la repeticion de cuadricula)desde el pc (shift+click) y las ponemos en el primer recuadro 
+automaticamente se acomodaran en todos los recuadros q repetimos 
+
 

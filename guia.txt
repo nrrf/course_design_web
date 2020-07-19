@@ -48,4 +48,14 @@ le agregamos la descripcion a la primera, luego con la repeticion de cuadricula 
 seleccionamos varias imagenes (las q tengamos de la repeticion de cuadricula)desde el pc (shift+click) y las ponemos en el primer recuadro 
 automaticamente se acomodaran en todos los recuadros q repetimos 
 
+7. Exportando elementos y artboards 
+
+Se van a exportar las imagenes con las descripciones (en 1 imagen), para ello hacemos click izq en el componente galeria y habilitamos marcar para exportacion o directamente en el icono 
+de este en el componente 
+
+vamos a menu -> exportar -> exportar por lotes, en este caso especifico se va a exportar en png (por tema de transparencia) en design o cualquiera, se seleccciona ubicacion de archivo 
+
+Para exportar todos los artboards completos, menu -> exportar -> Todas las mesas de trabajo
+ 
+
 

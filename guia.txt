@@ -1,0 +1,8 @@
+commands 
+git init 
+git remote add origin (link repository)
+
+1. Shapes: 
+Se vieron el tema de dimensiones, el fill, border entre otros. 
+Mantener Shift cuando se quiere mantener la dimensión de un shape  
+Importante digamos herramienta de intersección par hacer por ejemplo medio circulo

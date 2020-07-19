@@ -1,10 +1,10 @@
-commands 
+Commands 
 git init 
 git remote add origin (link repository)
 git status
 git add * 
 git commit -m "message"
-git push origin master -- force (en este caso porq no tengo en mi arcgivo el readme)
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
 
 1. Shapes: 
 Se vieron el tema de dimensiones, el fill, border entre otros. 
@@ -28,5 +28,16 @@ La sombra en textos es recomendada si se va a usar en textos cortos, o sea no pa
 La pluma crea formas como deseemos, podemos ponerlas inicialmente rectas e ir curveandolas luego, luego hacer lo clasico de relleno y demas de los shapes 
 Fusion de capas es si seleccionamos por ejemplo una forma y seleccionamos tmbn la imagen en nuestro ejemplo (shift+clic para añadir a seleccion)
 ya de lo anterior podemos aplicar los metodos de añadir, intersectar, diferencia simetrica y restar dependiendo de lo que queramos 
+
+5. Alineacion de elementos y organizacion de capas  
+Las alineaciones se pueden hacer manualmente si nos dicen las medidas o crear una regla con un rectangulo para hacer por ejemplo las margenes (metodo no mas apto)
+se puede alinear un texto dentro de un shape especifico si se seleccionan ambos (shift+clic) y con las aineaciones de centrado arriba, abajo, izq, der 
+
+Para bloquear un elemento o componente hacemos clic izq en este y lo bloqueamos o en el artboard se puede bloquear, esto basicamente hace que no podamos mover ni modificar el elemento
+
+Para alinear varios textos, por ejemplo 3 textos uno a izq , otro en centro y otro e la der, se puede hacer manual
+o se seleccionan los tres y se pone selecciona en la parte de herramientas Distribuir horizontalmente y Distribuir verticalmente si los tenemos en columna  
+
+Por ultimo para una mejor organizacion podemos agrupar elementos por ejemplo el header del artboard (esto tambien hace que podamos mover todo el grupo de una si vamos a cambiarlo de lugar)
 
 

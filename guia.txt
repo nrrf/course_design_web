@@ -24,4 +24,9 @@ lo anterior tmbn se puede hacer directamente con la herramienta de texto ya que 
 Debajo de las fuente y tamaño de fuente tenemos ql espaciado entre caracteres, entre lineas y entre parrafos 
 La sombra en textos es recomendada si se va a usar en textos cortos, o sea no parrafos
 
+4.Pluma y fusion de capas
+La pluma crea formas como deseemos, podemos ponerlas inicialmente rectas e ir curveandolas luego, luego hacer lo clasico de relleno y demas de los shapes 
+Fusion de capas es si seleccionamos por ejemplo una forma y seleccionamos tmbn la imagen en nuestro ejemplo (shift+clic para añadir a seleccion)
+ya de lo anterior podemos aplicar los metodos de añadir, intersectar, diferencia simetrica y restar dependiendo de lo que queramos 
+
 

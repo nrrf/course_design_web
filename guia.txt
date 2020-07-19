@@ -71,3 +71,6 @@ click izq en texto -> Añadir estilo de caracter a activos
 Lo mismo para el color
 
 click izq objeto con dicho color -> añadir color a activos 
+
+9. Componentes 
+Basicamente es una actualizacion o cambio de nombre de lo que es simbolo y componente

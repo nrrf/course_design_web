@@ -57,5 +57,17 @@ vamos a menu -> exportar -> exportar por lotes, en este caso especifico se va a 
 
 Para exportar todos los artboards completos, menu -> exportar -> Todas las mesas de trabajo
  
+8. Simbolos  
 
+Sirven para poder cambiar un elemento o componente para todos los artboard q se necesiten (por ejemplo encabezado o pie de pagina)
+Se da click izq en el componente, se crea componente, luego en activos (uno de los abajos a la izq) se encuentra y se pega en los artboards que queramos 
+si modificamos el original, se van a modificar los demas
 
+Notacion: Symbol=Component  ;  activos=assets
+
+Podemos hacer lo mismo con los textos para q otros textos tengan el color, la fuente y el tamaño,(no copia por ejemplo las sombras) para ello 
+click izq en texto -> Añadir estilo de caracter a activos 
+
+Lo mismo para el color
+
+click izq objeto con dicho color -> añadir color a activos 

@@ -1,0 +1,15 @@
+Commands 
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+1. creating the home page  
+en esta primera seccion se crea la home page 
+se ajustan las columnas 
+para el fondo se va crear forma cuadrada donde va la imagen y encima otra forma del color,
+q para q se note la imagen se le va a bajar la opacidad al color
+opcionalmente se puede poner desenfoque de objeto a la imagen de fondo
+El resto es usar las columnas y las alineaciones con lo q se sabe

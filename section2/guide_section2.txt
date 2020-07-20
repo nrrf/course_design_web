@@ -13,3 +13,7 @@ para el fondo se va crear forma cuadrada donde va la imagen y encima otra forma 
 q para q se note la imagen se le va a bajar la opacidad al color
 opcionalmente se puede poner desenfoque de objeto a la imagen de fondo
 El resto es usar las columnas y las alineaciones con lo q se sabe
+
+2. creating the website 
+para alargar artboard simplemente se selecciona y se alarga manualmente, queda automaticamente scrolleable 
+para conectar pantallas se selecciona prototipo (parte superior izq), se selecciona el elemento, ejemplo boton, y se asigna manualmente a la pantalla destino

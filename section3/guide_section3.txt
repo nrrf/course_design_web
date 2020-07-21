@@ -1,0 +1,25 @@
+Commands 
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+1. Creating the columns and header page 
+Para descargar fuentes a usar en proyecto de google fonts: 
+https://fonts.google.com/
+Para este proyecto se van a descargar 3 de estas fuentes:
+Roboto 
+OpenSans
+Lato
+
+Se decomprimen, en cada cada carpeta se seleccionan los archivos de fuente TrueType -> click derecho -> instalar
+ya se pueden eliminar los archivos si se quiere
+y finalmente se puede usar en cualquier texto q se tenga 
+
+Los iconos del proyecto van a ser tomados de: 
+https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started
+descomprimimos el archivo, en la carpeta otfs vamos a tener 3 archivos de fuente q se instalan con normalidad 
+Usamos la herramienta de texto y en el campo pegamos el icono q queremos q tenemos q copiar de la pag de fontawesome 
+luego seleccionamos en tipo de fuente, en este caso font awesome free 

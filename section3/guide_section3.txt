@@ -32,8 +32,11 @@ truco: shift+flechas para mover de a 10 pixeles
 El truco de esto esta en crear una capa q cubra las margenes y por lo tanto lo q sobra a los lados de las imagenes, en donde se pone las flechas 
 El truco anterior solo aplica en el diseño, nada q ver como se programa 
 
-3. Creating categories 
+3. Creating section of categories 
 
 se puso un fondo blanco para todo lo q esta abajo del slideshow, se le agrego a esto una sombra
+
+4. Creating section of bestseller 
+la estrella se saco de los iconos de fontawesome
 
 

@@ -39,4 +39,7 @@ se puso un fondo blanco para todo lo q esta abajo del slideshow, se le agrego a 
 4. Creating section of bestseller 
 la estrella se saco de los iconos de fontawesome
 
+5. Creating footer of the page 
+Nada q agregar, se hiso una organizacion de la mesa de trabajo
+
 

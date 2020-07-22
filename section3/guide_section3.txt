@@ -23,3 +23,11 @@ https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started
 descomprimimos el archivo, en la carpeta otfs vamos a tener 3 archivos de fuente q se instalan con normalidad 
 Usamos la herramienta de texto y en el campo pegamos el icono q queremos q tenemos q copiar de la pag de fontawesome 
 luego seleccionamos en tipo de fuente, en este caso font awesome free 
+
+
+2. Creating the SlideShow of the page 
+
+truco: shift+flechas para mover de a 10 pixeles
+
+El truco de esto esta en crear una capa q cubra las margenes y por lo tanto lo q sobra a los lados de las imagenes, en donde se pone las flechas 
+El truco anterior solo aplica en el diseño, nada q ver como se programa 

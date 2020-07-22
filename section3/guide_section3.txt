@@ -42,4 +42,8 @@ la estrella se saco de los iconos de fontawesome
 5. Creating footer of the page 
 Nada q agregar, se hiso una organizacion de la mesa de trabajo
 
+6. Creating the page of the book
+
+para el efecto de la portada se pone una imagen y encima un fondo de un color degradado lineal,en el de arriba los dos lados se deja blanco, pero en el primero se le baja
+la opacidad al 75%, tuve q bajar un poco el fondo transparente ya q quedaba una pequeña linea horizontal en le parte de abajo
 

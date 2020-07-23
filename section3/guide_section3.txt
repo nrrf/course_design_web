@@ -47,3 +47,5 @@ Nada q agregar, se hiso una organizacion de la mesa de trabajo
 para el efecto de la portada se pone una imagen y encima un fondo de un color degradado lineal,en el de arriba los dos lados se deja blanco, pero en el primero se le baja
 la opacidad al 75%, tuve q bajar un poco el fondo transparente ya q quedaba una pequeña linea horizontal en le parte de abajo
 
+7. initializing the application on mobile devices 
+ Se ajustan las nuevas columnas para las dimensiones del sipositivo a simula, en este caso el artboard de un Iphone x

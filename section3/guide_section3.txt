@@ -61,3 +61,7 @@ Reutilizacion para dispositivo movil de lo relizado en pagina web
 10. navigation menu- mobile device
 
 se crea una copia de la home page pero se le agrega lo que es el menu
+
+11. Book page - mobile device 
+
+Basicamente es realizar una adecuacion para movil de los componentes q teniamos en la pagina web

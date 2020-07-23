@@ -49,3 +49,8 @@ la opacidad al 75%, tuve q bajar un poco el fondo transparente ya q quedaba una 
 
 7. initializing the application on mobile devices 
  Se ajustan las nuevas columnas para las dimensiones del sipositivo a simula, en este caso el artboard de un Iphone x
+
+8. Creating the slideshow of the page
+
+Revisar el efecto interesante q se hiso sobre la capa gradiente encima de los libros, a pesar de q no se nota mucho en este caso 
+

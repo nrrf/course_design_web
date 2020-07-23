@@ -54,3 +54,7 @@ la opacidad al 75%, tuve q bajar un poco el fondo transparente ya q quedaba una 
 
 Revisar el efecto interesante q se hiso sobre la capa gradiente encima de los libros, a pesar de q no se nota mucho en este caso 
 
+9. app hompage complete 
+
+Reutilizacion para dispositivo movil de lo relizado en pagina web
+

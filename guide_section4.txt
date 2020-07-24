@@ -32,3 +32,10 @@ La solucion es en prototipo en la conexion (re reemplazo el artboard de app-menu
 tocando la linea nos aparece un recuadro verde el cual es el menu q podemos ir moviendo a doonde queremos que se vea en pantalla 
 
 en el artboard menu tener cuidado con las dimensiones para q funcione todo correctamente
+
+2. Share prototype 
+
+Este video da cosas muy interesantes de compartir el prototipo con las muchas opciones que da adobe xd para ello 
+
+Ademas algo q no sabia: cuando se selecciona artboard en protptipo en la parte superior izq hay un icono de casa 
+q si lo habilitamos va a ser el inicio de la simulacion del prototipo por defecto

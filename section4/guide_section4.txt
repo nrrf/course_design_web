@@ -55,6 +55,10 @@ protoyipo, en la conexion de vuelta se pone en trigger (desencadenante) que sea 
 
 de la seccion 3 Se le agrego funcion de autoanimado a las flechas de los libros y responzive resize a los artboard
 
+7. Guides and new edges
 
+Se pueden poner mas guias tanto verticales como horizontales en el Artboard, solo se necesita arrastrarlos desde los bordes del artboard 
+Para ocultarlas, simplemente click derecho en nombre artboard -> guias -> Ocultar o tambien hay mismo se pueden bloquear para no moverlas o copiarlas, para poder usarlas 
+en otro artboard , ademas se va a juga r un poco con las funcionalidades de bordes
 
 

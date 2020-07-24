@@ -39,3 +39,14 @@ Este video da cosas muy interesantes de compartir el prototipo con las muchas op
 
 Ademas algo q no sabia: cuando se selecciona artboard en protptipo en la parte superior izq hay un icono de casa 
 q si lo habilitamos va a ser el inicio de la simulacion del prototipo por defecto
+
+3. Responsive Resize  
+
+Es una funcionalidad (Redimensionamiento interactivo en español) muy util para q se mantenga por decirlo asi un formato de los componentes a los que les estamos cambiando la dimension 
+si ademas, lo ponemos en modo manual podemos decir que se quede en un lado especifico mientras se le esta cambaindo la dimension ademas de no poner jifo la altura o ancho a pesar
+de q eso ultimo no se hace mucho
+
+
+
+
+

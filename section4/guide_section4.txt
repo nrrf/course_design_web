@@ -61,4 +61,25 @@ Se pueden poner mas guias tanto verticales como horizontales en el Artboard, sol
 Para ocultarlas, simplemente click derecho en nombre artboard -> guias -> Ocultar o tambien hay mismo se pueden bloquear para no moverlas o copiarlas, para poder usarlas 
 en otro artboard , ademas se va a juga r un poco con las funcionalidades de bordes
 
+8. Hover and Active 
+
+Hover es el efecto sobre un boton cuando se pasa el cursor sobre el 
+
+Para ello hacemos el boton, lo agrupamos, creamos el componente, si queremos mas (ctrl+d) para pegarlo
+En el componente creamos un estado de cuando se pase el cursor sobre el boton en este caso , 
+asegurar de realizar las modificaciones correspondientes si se necesitan en los componentes q son copia de este 
+
+Ahora para hacer el Slider de las imagenes 
+
+Toca crear una mascara q basicamente ocupa toda la pantalla (como un fondo, el color no importa ya que se va a poner como no visible)
+ y luego seleccionando cdicha mascara con las imagenes se crea mascara con forma (opcion de click derecho)
+
+luego se crea estado, (no de tipo hover) lo q tenemos agrupado como imagenes se va moviendo dependiendo del estado 
+
+ya luego esto no se activa automaticamente como el estado hover,por lo que toca ir a prototipo, se selecciona el slider 
+y se modifica cada uno de los estados haciendo + en interaccion, esta q sea tocar y se especifica destino, 
+q digamos del estado por defecto es el estado 1 
+
+
+
 

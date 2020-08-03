@@ -1,0 +1,24 @@
+1. Scroll, pila de elementos y mas  
+
+Cree un template similar al del inicio del video para mirar las nuevas funcionalidades que hay en adobe xd 
+
+Con las nuevas actualizaciones de adode xd, si no se tiene, ir a Adobe Creative Cloud -> actualizar adobe xd 
+
+Tenemos ahora la funcion de scroll horizontal , para cualquier elemento, pero con especial utilidad de cuadriculas que
+sobrepasan la pantalla, ademas de poder elegir desde donde quiere que se vea 
+
+esto se da dando click en el elemnto, y luego en las opciones de la derecha en la figura de desplazamiento horizontal
+y se hacen las modificaciones respectivas 
+
+posdata: del anterior tambien esta la opcion de desplazamiento vertical y de tanto horizontal como vertical
+
+Si se quiere q sea tocando las flechas, se hace de la forma clasica, en la q se copia el artoard, se corre el segundo y luego se hacen las animaciones con el desencadenamiento 
+de tocer en la flecha  
+
+Lo segundo que se agrego en esta actualizacion de adobe xd , fue los stack o pilas de elementos
+en los cuales tenemos la posibilidad de poder acomodar nuestros de una manera mas sencilla, por ejemplo  
+si los tenemos de manera horizontal tenemos la posibilidad de mover con facilidad el elemento de la derecha
+a la izq sin mayores inconvenientes (se recomienda hacerlo pulsando la tecla shift) 
+
+Lo anterior se hace seleccionendo el grupo, en el panel derecho de adobe, en diseño habilitamos el check de pila y 
+podemos habilitar si es pila vertical u horizontal y ademas en este se puede modificar el padding entre los elementos de la fila por ejemplo 
